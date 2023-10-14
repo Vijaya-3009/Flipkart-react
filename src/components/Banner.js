@@ -11,7 +11,7 @@ import '../css/bootstrap.css';
 function Banner(){
     return(
         <>
-            <div id="carouselExampleControls" class="carousel slide section3" data-bs-ride="carousel">
+            <div id="carouselExampleControl" class="carousel slide section3" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <img src={logo12} class="d-block w-100" alt="..."/>
